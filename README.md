@@ -14,3 +14,15 @@ A unique aspect of the proposed network is that we shall solve both the single i
 
 The practical benefits of our work would comprise of everything which can be done to alpha video mattes [Wang and Cohen, 2008] like compositing the alpha video matte and the associated video onto a new background in addition to resizing the foreground while keeping the background same for a video. Once high computational efficiency is achieved for video matting through our work, the post processing done at present during visual effects through Chroma key compositing would change as with our work we can change the background of any highly dynamic object in a video efficiently. This would free the usage of green screen at present times for Chroma key compositing. Also by merging two alpha video mattes one can create a composite video comprising the features of the merged videos.
 
+# References
+
+Aksoy, Y., Aydın, T. O., & Pollefeys, M. (2017). Designing effective inter-pixel information flow for natural image matting. CVPR.
+Chuang, Y. Y., Agarwala, A., Curless, B., Salesin, D. H., & Szeliski, R. (2002). Video matting of complex scenes. ACM Transactions on Graphics (ToG), 21(3), 243-248.
+Chung, J., Gulcehre, C., Cho, K., & Bengio, Y. (2015). Gated feedback recurrent neural networks. In ICML (pp. 2067-2075).
+Cotsaces, C., Nikolaidis, N., & Pitas, I. (2006). Video shot detection and condensed representation. a review. IEEE signal processing magazine, 23(2), 28-37.
+Erofeev, M., Gitman, Y., Vatolin, D., Fedorov, A., & Wang, J. (2015). Perceptually Motivated Benchmark for Video Matting. In BMVC.
+Sonane, B., Ramakrishnan, S., & Raman, S. (2016). Automatic video matting through scribble propagation. In Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing ICVGIP (p. 87). ACM.
+Xu, N., Price, B., Cohen, S., & Huang, T. (2017). Deep Image Matting. CVPR.
+Wang, J., & Cohen, M. F. (2008). Image and video matting: a survey. Foundations and Trends® in Computer Graphics and Vision, 3(2), 97-175.
+
+
