@@ -1,4 +1,4 @@
-# Deep-Trimap-Generation-for-Automatic-Video-Matting
+# Deep-Trimap-Generation-for-Automatic-Video-Matting-using-GAN
 
 ## Abstract
 
