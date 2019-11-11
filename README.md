@@ -1,3 +1,7 @@
+## Visualizing tests
+
+For viewing the test results, please clone this repository, unzip the zipped folders and host **index.html** file present in each of the subfolder titled *Results/test*. 
+
 # Deep-Trimap-Generation-for-Automatic-Video-Matting-using-GAN
 
 ## Abstract
